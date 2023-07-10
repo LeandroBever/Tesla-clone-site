@@ -52,7 +52,6 @@ function Home() {
         description=""
         backgroundImage="accessories.jpg"
         leftBtnText="Shop Now"
-        
       />
     </Container>
   )
